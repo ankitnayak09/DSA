@@ -1,0 +1,7 @@
+Pointers is a address variable i.e meant for storing address of data, not the data itself.
+Indirectly access the data
+The Program in Code Section can directly access the Stack But not Heap.
+Use of Pointer is to Use the Heap Memory
+
+Use Heap Memory using the Malloc function in C & new Operator in C++.
+P = new int[5];
